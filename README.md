@@ -49,3 +49,7 @@ Parfait ! ✅ Fichier transféré.
 <img width="1920" height="442" alt="image" src="https://github.com/user-attachments/assets/9a98c14f-9936-42c7-86b2-ba601e46431e" />
 Success ✅ APK installé ! Maintenant lance et capture le flag :
 
+Flag attendu
+text
+PWNSEC{W3'r3_N0t_T00l5_0f_The_g0v3rnm3n7_0R_4ny0n3_3ls3}
+
