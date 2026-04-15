@@ -34,5 +34,18 @@ Maintenant on signe l'APK
 
 <img width="1521" height="453" alt="image" src="https://github.com/user-attachments/assets/9a8fcef4-40d2-4570-8fc5-61d2f14b512d" />
 <img width="1521" height="576" alt="image" src="https://github.com/user-attachments/assets/ffa31dc9-3736-4d3a-ad62-96217797dfb5" />
+Keystore créé avec succès ! ✅
+<img width="1309" height="888" alt="image" src="https://github.com/user-attachments/assets/884c2cfb-cce4-4ace-9aec-94feb2cfffa0" />
+<img width="1309" height="888" alt="image" src="https://github.com/user-attachments/assets/781be39b-9814-4a5c-ad8a-3ac52d248350" />
 
+jar signed. ✅ L'APK est signé avec succès !
+
+Maintenant on installe l'APK sur l'émulateur :
+<img width="1754" height="441" alt="image" src="https://github.com/user-attachments/assets/69ed8086-8b31-454e-92b9-16f2add1ac32" />
+
+Parfait ! ✅ Fichier transféré.
+Étape 4 : Lancer l'application avec l'Intent
+
+<img width="1920" height="442" alt="image" src="https://github.com/user-attachments/assets/9a98c14f-9936-42c7-86b2-ba601e46431e" />
+Success ✅ APK installé ! Maintenant lance et capture le flag :
 
