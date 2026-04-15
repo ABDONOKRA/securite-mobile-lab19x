@@ -1,7 +1,4 @@
 # Reconstruction du fichier .md en incluant TOUTES les images et informations fournies par l'utilisateur
-markdown_content = """# 📱 Sécurité Mobile - Lab: Root Detection Bypass
-**Auteur :** Abdelghafour
-**Sujet :** # securite-mobile-lab19x
 
 ---
 
